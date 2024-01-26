@@ -1,2 +1,1 @@
-# dsci100_project
-Term project for DSCI100
+An analysis of tennis player earnings from recent years.
